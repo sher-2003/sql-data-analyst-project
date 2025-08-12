@@ -66,7 +66,7 @@ data-warehouse-project/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
 │	├── SQL_reports/
-├── README.md                           # Project overview and instructions└── requirements.txt                    # Dependencies and requirements for the project
+├── README.md                           # Project overview and instructions│
 ```
 ---
 
