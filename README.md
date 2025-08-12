@@ -74,4 +74,4 @@ data-warehouse-project/
 
 Hi there! I'm Sher-Ali Penza. I’m a student at Lviv University in the field of Mathematics and Statistics, and I am also interested in data analysis.
 
-I would be glad to receive feedback on my project. You can contact me at [penza121sher@gmail.com].
+I would be glad to receive feedback on my project. You can contact me at penza121sher@gmail.com.
